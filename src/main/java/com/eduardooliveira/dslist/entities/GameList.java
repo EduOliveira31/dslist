@@ -29,7 +29,7 @@ public class GameList {
         this.id = id;
     }
 
-    public String getNam() {
+    public String getName() {
         return name;
     }
 
